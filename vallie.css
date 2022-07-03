@@ -1,0 +1,236 @@
+@media screen and (max-width:480px){
+    div{
+        background-color: #0F298B;
+        font-size: medium;
+    }
+}
+#park{
+    text-align: start;
+}
+
+.image1{
+    text-align: center;
+    padding-right: 20%;
+}
+
+#img4details{
+    background-color: #FAFAFA;
+    font-size: 1em;
+    padding: 30px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.button1{
+    background-color: #0F298B;
+    border: none;
+    padding: 10px 20px;
+    color: #FAFAFA;
+    text-align: center;
+    float: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.search{
+    background-color: #0F298B;
+    border: none;
+    padding: 10px 20px;
+    color: #FAFAFA;
+    text-align: center;
+    float: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#locality{
+    color: #0F298B;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    padding: 30px 30px;
+    
+}
+
+.dropdown:hover .dropdown-content {
+    display: contents;
+}
+
+.dropdown-content {
+    display: none;
+    position: relative;
+    background-color: #f9f9f9;
+    min-width: 2000px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 20px 30px;
+    word-spacing: 20px;
+    z-index: 1;
+}
+
+.split{
+    background-color: hsla(0, 93%, 47%, 0.952);
+    border-bottom-style: unset;
+    width: 0%;
+    z-index: 1;
+    overflow-x: hidden;
+    padding: 20px;
+}
+
+.how{
+    text-align: center;
+}
+.left{
+    
+    background-color: #FAFAFA;
+}
+
+.right{
+    
+    background-color: #FAFAFA;
+}
+.centered img{
+    
+    width: 150px;
+
+}
+
+
+.split_center{
+    background-color: #FAFAFA;
+    border-bottom-style: unset;
+    width: 10%;
+    z-index: 1;
+    padding-left: 50%;
+    overflow-x: hidden;
+
+}
+
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(SpaceGrotesk-VariableFont_wght.ttf);
+}
+
+html{
+    background-color: #FAFAFA;
+    
+    
+}
+
+h1,h2,h3,h4{
+    color: #0F298B;
+}
+
+.nav_bar{
+    background-color: #FAFAFA;
+    text-align: right;
+    margin-right: 10px;
+    float: center;
+    background-color: #FAFAFA;
+    color:  black;
+    padding-right: 50%;
+    border: solid 50px  50px #FAFAFA;
+    width: 75%;
+    word-spacing: 15px;
+}
+#contacts{
+    word-spacing: normal;
+}
+#home,#rent,#land,#contacts,#agent{
+    background-color: #FAFAFA;
+    border: none;
+    color: black;
+    float: right;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.nav_bar:link,.nav_bar:visited{
+    color: #0F298B;
+    text-align: center;
+    padding: 0%;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.featured{
+    padding: 50px 50px;
+    text-align: center;
+    background-color: #FAFAFA;
+}
+#visit{
+    background-color: #0F298B;
+    border: none;
+    color: #FAFAFA;
+    float: right;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.featured_images{
+    display: inline-block;
+    padding-inline-start: 0%;
+    margin-left: 20px;
+    margin: 0 20px 0 20px;
+}
+
+
+.photodesc{
+    font-size: 1em;
+    text-align: start;
+}
+.quoted{
+    text-align: center;
+    font-size: 1em;
+    float: left;
+}
+
+
+.nav_bar:hover,.nav_bar:active{
+    background-color: #FAFAFA;
+    color: #0F298B;
+}
+
+h4{
+    font-weight: 700;
+}
+a{
+    color: black;
+}
+
+.image1{
+    float: right;
+
+}
+.footer{
+    background-color: #0F298B;
+    color: #FAFAFA;
+    
+}
+#footer_head,#footerp1{
+
+    color: #FAFAFA;
+    text-align: left;
+    padding-right: 0px;
+}
+#footer_about,#footerp2{
+    float: center;
+    color: #FAFAFA;
+    padding-top: 0px;
+    margin-top: 0%;
+}

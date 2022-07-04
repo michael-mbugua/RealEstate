@@ -115,7 +115,16 @@ button{
 .customer_review{
     display: flex;
     flex-direction: row;
-    
+
+}
+.head1{
+    color: white;
+}
+.footer>h4{
+    color: white;
+}
+.footer_links{
+    list-style-type: none;
 }
 
 .footer{
